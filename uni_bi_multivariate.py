@@ -27,3 +27,5 @@ grid.fig.suptitle('BIVARIATE', fontsize=16)
 #multivariate
 sns.pairplot(df, hue = 'species', height= 5).fig.suptitle('MULTIVARIATE')
 plt.show()
+
+
