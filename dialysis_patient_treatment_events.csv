@@ -1,0 +1,976 @@
+OBSERVATION_TIME,ZONE_NAME,CAMERA_ID,DETECTION_AREA,DETECTION_AREA_ID,ACTOR_PUBLIC_ID,EVENT_OBSERVED
+1/17/25 17:29:20,Dialysis Room,2,bed,9,06f11,Patient discharged
+1/17/25 17:11:49,Dialysis Room,2,bed,9,06f11,Arranged drip bottle
+1/17/25 17:05:38,Dialysis Room,2,bed,11,864a2,Bed cleaned
+1/17/25 17:04:30,Dialysis Room,1,global,0,e6d51,screen share start
+1/17/25 17:04:25,Dialysis Room,1,global,0,529f8,screen share stop
+1/17/25 17:04:00,Dialysis Room,2,bed,9,06f11,Arranged drip bottle
+1/17/25 17:03:20,Dialysis Room,1,global,0,e325a,screen share start
+1/17/25 17:03:17,Dialysis Room,1,global,0,9881f,screen share stop
+1/17/25 17:01:55,Dialysis Room,1,bed,1,c4ecb,BP checked
+1/17/25 17:00:33,Dialysis Room,1,bed,3,fe0d5,BP checked
+1/17/25 16:59:01,Dialysis Room,1,bed,5,7f595,BP checked
+1/17/25 16:57:00,Dialysis Room,2,bed,7,1ea20,BP checked
+1/17/25 16:55:49,Dialysis Room,2,bed,7,1ea20,BP checked
+1/17/25 16:34:42,Dialysis Room,2,bed,11,cb13e,Arranged drip bottle
+1/17/25 16:30:18,Dialysis Room,1,global,0,ccd8f,screen share start
+1/17/25 16:30:16,Dialysis Room,1,global,0,72ad6,screen share stop
+1/17/25 16:15:37,Dialysis Room,2,bed,10,3bdd8,Patient discharged
+1/17/25 16:14:03,Dialysis Room,1,bed,4,0803e,Bed cleaned
+1/17/25 16:11:39,Dialysis Room,1,global,0,12601,screen share start
+1/17/25 16:11:08,Dialysis Room,1,global,0,0e1a4,screen share stop
+1/17/25 16:07:56,Dialysis Room,1,bed,4,b990f,Patient discharged
+1/17/25 16:07:13,Dialysis Room,1,bed,4,b990f,Arranged drip bottle
+1/17/25 16:06:38,Dialysis Room,2,bed,6,1bc84,Bed cleaned
+1/17/25 16:03:30,Dialysis Room,1,bed,4,b990f,BP checked
+1/17/25 16:02:29,Dialysis Room,1,bed,1,c4ecb,BP checked
+1/17/25 16:01:47,Dialysis Room,1,bed,3,fe0d5,BP checked
+1/17/25 16:00:58,Dialysis Room,1,bed,2,756f6,BP checked
+1/17/25 16:00:50,Dialysis Room,1,bed,4,b990f,Arranged drip bottle
+1/17/25 16:00:16,Dialysis Room,1,bed,5,7f595,BP checked
+1/17/25 15:59:02,Dialysis Room,2,bed,11,e853c,BP checked
+1/17/25 15:57:58,Dialysis Room,2,bed,10,3bdd8,BP checked
+1/17/25 15:55:50,Dialysis Room,2,bed,9,06f11,BP checked
+1/17/25 15:55:26,Dialysis Room,2,bed,6,3716e,Patient discharged
+1/17/25 15:55:09,Dialysis Room,2,bed,8,52e96,BP checked
+1/17/25 15:50:21,Dialysis Room,2,bed,6,3716e,BP checked
+1/17/25 15:46:07,Dialysis Room,1,bed,4,b990f,BP checked
+1/17/25 15:27:48,Dialysis Room,2,bed,7,1ea20,BP checked
+1/17/25 15:27:40,Dialysis Room,1,bed,4,b990f,Arranged drip bottle
+1/17/25 15:27:13,Dialysis Room,2,bed,7,1ea20,Patient admitted
+1/17/25 15:27:09,Dialysis Room,1,bed,4,b990f,BP checked
+1/17/25 15:23:29,Dialysis Room,1,bed,4,b990f,Arranged drip bottle
+1/17/25 15:22:48,Dialysis Room,1,bed,1,c4ecb,BP checked
+1/17/25 15:22:37,Dialysis Room,1,bed,4,b990f,Arranged drip bottle
+1/17/25 15:22:24,Dialysis Room,1,bed,1,c4ecb,Arranged drip bottle
+1/17/25 15:20:44,Dialysis Room,1,bed,1,c4ecb,Patient admitted
+1/17/25 15:19:54,Dialysis Room,1,bed,1,44705,Bed cleaned
+1/17/25 15:18:35,Dialysis Room,1,bed,1,39854,Patient discharged
+1/17/25 15:18:19,Dialysis Room,1,bed,3,fe0d5,BP checked
+1/17/25 15:15:52,Dialysis Room,1,bed,1,39854,Arranged drip bottle
+1/17/25 15:09:35,Dialysis Room,1,bed,3,fe0d5,Patient admitted
+1/17/25 15:08:33,Dialysis Room,1,bed,3,11131,Bed cleaned
+1/17/25 15:03:54,Dialysis Room,1,bed,3,7036a,Patient discharged
+1/17/25 15:01:09,Dialysis Room,2,bed,7,1b96d,Bed cleaned
+1/17/25 14:55:37,Dialysis Room,1,bed,3,7036a,Arranged drip bottle
+1/17/25 14:54:22,Dialysis Room,2,bed,7,973c5,Patient discharged
+1/17/25 14:47:12,Dialysis Room,2,bed,7,973c5,Arranged drip bottle
+1/17/25 14:44:24,Dialysis Room,1,bed,1,39854,BP checked
+1/17/25 14:43:33,Dialysis Room,1,bed,2,756f6,BP checked
+1/17/25 14:43:05,Dialysis Room,1,bed,3,7036a,BP checked
+1/17/25 14:42:33,Dialysis Room,1,bed,4,b990f,BP checked
+1/17/25 14:41:39,Dialysis Room,2,bed,6,3716e,BP checked
+1/17/25 14:40:50,Dialysis Room,2,bed,11,d199d,BP checked
+1/17/25 14:40:23,Dialysis Room,2,bed,10,3bdd8,BP checked
+1/17/25 14:39:48,Dialysis Room,2,bed,9,06f11,BP checked
+1/17/25 14:39:22,Dialysis Room,2,bed,8,52e96,BP checked
+1/17/25 14:38:55,Dialysis Room,2,bed,7,973c5,BP checked
+1/17/25 14:37:46,Dialysis Room,1,bed,5,7f595,BP checked
+1/17/25 14:34:51,Dialysis Room,1,bed,5,7f595,Patient admitted
+1/17/25 14:31:58,Dialysis Room,1,bed,5,2c0d5,Bed cleaned
+1/17/25 14:30:08,Dialysis Room,1,bed,5,607e1,Patient discharged
+1/17/25 14:24:14,Dialysis Room,2,global,0,7c2b8,screen share start
+1/17/25 14:24:07,Dialysis Room,2,global,0,08d5f,screen share stop
+1/17/25 14:13:22,Dialysis Room,1,bed,5,607e1,Arranged drip bottle
+1/17/25 14:12:40,Dialysis Room,2,bed,10,3bdd8,BP checked
+1/17/25 14:00:56,Dialysis Room,1,bed,5,607e1,Arranged drip bottle
+1/17/25 13:50:46,Dialysis Room,2,bed,11,215f5,BP checked
+1/17/25 13:50:06,Dialysis Room,2,bed,10,3bdd8,BP checked
+1/17/25 13:49:17,Dialysis Room,2,bed,9,06f11,BP checked
+1/17/25 13:48:34,Dialysis Room,2,bed,7,973c5,BP checked
+1/17/25 13:47:28,Dialysis Room,2,bed,6,3716e,BP checked
+1/17/25 13:47:16,Dialysis Room,2,bed,8,52e96,BP checked
+1/17/25 13:47:04,Dialysis Room,1,bed,5,607e1,BP checked
+1/17/25 13:46:21,Dialysis Room,1,bed,4,b990f,BP checked
+1/17/25 13:45:43,Dialysis Room,1,bed,3,7036a,BP checked
+1/17/25 13:44:56,Dialysis Room,1,bed,2,756f6,BP checked
+1/17/25 13:44:22,Dialysis Room,1,bed,1,39854,BP checked
+1/17/25 13:12:02,Dialysis Room,2,bed,8,1f47d,Bed cleaned
+1/17/25 12:50:20,Dialysis Room,2,bed,9,06f11,Patient admitted
+1/17/25 12:46:43,Dialysis Room,2,bed,9,fa1d2,Arranged drip bottle
+1/17/25 12:39:35,Dialysis Room,2,bed,8,52e96,BP checked
+1/17/25 12:38:59,Dialysis Room,2,bed,9,a3723,Bed cleaned
+1/17/25 12:37:31,Dialysis Room,2,bed,11,be33b,Arranged drip bottle
+1/17/25 12:36:25,Dialysis Room,2,bed,11,99119,Bed cleaned
+1/17/25 12:34:54,Dialysis Room,2,bed,8,52e96,BP checked
+1/17/25 12:34:23,Dialysis Room,2,bed,9,e78fd,Arranged drip bottle
+1/17/25 12:32:21,Dialysis Room,2,bed,9,dd6c3,Patient discharged
+1/17/25 12:31:39,Dialysis Room,2,bed,8,52e96,BP checked
+1/17/25 12:28:51,Dialysis Room,2,bed,9,dd6c3,BP checked
+1/17/25 12:28:09,Dialysis Room,2,bed,10,3bdd8,BP checked
+1/17/25 12:27:21,Dialysis Room,2,bed,7,973c5,BP checked
+1/17/25 12:26:43,Dialysis Room,2,bed,6,3716e,BP checked
+1/17/25 12:26:29,Dialysis Room,2,bed,8,52e96,Arranged drip bottle
+1/17/25 12:26:07,Dialysis Room,1,bed,5,607e1,BP checked
+1/17/25 12:25:56,Dialysis Room,2,bed,9,dd6c3,Arranged drip bottle
+1/17/25 12:25:26,Dialysis Room,1,bed,4,b990f,BP checked
+1/17/25 12:24:51,Dialysis Room,1,bed,3,7036a,BP checked
+1/17/25 12:24:17,Dialysis Room,1,bed,2,756f6,BP checked
+1/17/25 12:23:38,Dialysis Room,1,bed,1,39854,BP checked
+1/17/25 12:20:27,Dialysis Room,2,bed,8,52e96,Arranged drip bottle
+1/17/25 12:15:25,Dialysis Room,1,bed,2,756f6,BP checked
+1/17/25 12:15:05,Dialysis Room,2,bed,9,dd6c3,Arranged drip bottle
+1/17/25 12:12:34,Dialysis Room,1,bed,2,756f6,Patient admitted
+1/17/25 12:11:47,Dialysis Room,1,bed,2,e955f,Bed cleaned
+1/17/25 12:06:56,Dialysis Room,1,bed,2,505ab,Patient discharged
+1/17/25 12:05:48,Dialysis Room,1,bed,2,505ab,BP checked
+1/17/25 12:04:18,Dialysis Room,1,bed,2,505ab,Arranged drip bottle
+1/17/25 11:56:52,Dialysis Room,2,bed,10,3bdd8,Arranged drip bottle
+1/17/25 11:54:47,Dialysis Room,2,bed,11,60641,Arranged drip bottle
+1/17/25 11:50:20,Dialysis Room,2,bed,10,3bdd8,Arranged drip bottle
+1/17/25 11:47:09,Dialysis Room,2,bed,10,3bdd8,Patient admitted
+1/17/25 11:44:39,Dialysis Room,2,bed,6,3716e,BP checked
+1/17/25 11:41:15,Dialysis Room,2,bed,11,bd86b,Arranged drip bottle
+1/17/25 11:39:09,Dialysis Room,2,bed,9,dd6c3,Arranged drip bottle
+1/17/25 11:32:25,Dialysis Room,1,bed,4,b990f,Arranged drip bottle
+1/17/25 11:30:47,Dialysis Room,2,bed,6,3716e,Arranged drip bottle
+1/17/25 11:26:02,Dialysis Room,1,bed,4,b990f,Arranged drip bottle
+1/17/25 11:25:42,Dialysis Room,2,bed,6,3716e,Patient admitted
+1/17/25 11:25:10,Dialysis Room,1,bed,1,39854,BP checked
+1/17/25 11:21:23,Dialysis Room,2,bed,10,5ca0c,Bed cleaned
+1/17/25 11:18:56,Dialysis Room,2,bed,6,749f4,Bed cleaned
+1/17/25 11:18:18,Dialysis Room,1,bed,4,b990f,Patient admitted
+1/17/25 11:18:07,Dialysis Room,2,bed,6,79fec,Patient discharged
+1/17/25 11:17:30,Dialysis Room,1,bed,1,39854,Patient admitted
+1/17/25 11:15:24,Dialysis Room,2,bed,6,79fec,Arranged drip bottle
+1/17/25 11:14:18,Dialysis Room,1,bed,1,ec642,Arranged drip bottle
+1/17/25 11:12:33,Dialysis Room,2,bed,10,aa524,Patient discharged
+1/17/25 11:12:10,Dialysis Room,2,bed,8,52e96,BP checked
+1/17/25 11:11:26,Dialysis Room,2,bed,9,dd6c3,BP checked
+1/17/25 11:11:07,Dialysis Room,1,bed,1,6f3ea,Bed cleaned
+1/17/25 11:09:37,Dialysis Room,1,bed,1,f280f,Patient discharged
+1/17/25 11:09:28,Dialysis Room,1,bed,5,607e1,BP checked
+1/17/25 11:04:07,Dialysis Room,2,bed,10,aa524,Arranged drip bottle
+1/17/25 11:00:47,Dialysis Room,1,bed,2,505ab,BP checked
+1/17/25 10:59:56,Dialysis Room,1,bed,3,7036a,BP checked
+1/17/25 10:59:56,Dialysis Room,1,bed,3,7036a,BP checked
+1/17/25 10:58:46,Dialysis Room,2,bed,10,aa524,BP checked
+1/17/25 10:58:01,Dialysis Room,2,bed,11,86dbc,BP checked
+1/17/25 10:47:14,Dialysis Room,2,bed,7,973c5,BP checked
+1/17/25 10:42:38,Dialysis Room,1,bed,3,7036a,Patient admitted
+1/17/25 10:41:16,Dialysis Room,1,bed,3,b4ff5,Arranged drip bottle
+1/17/25 10:40:31,Dialysis Room,1,bed,3,0c18f,Bed cleaned
+1/17/25 10:37:51,Dialysis Room,1,bed,3,b7e76,Arranged drip bottle
+1/17/25 10:37:30,Dialysis Room,1,bed,3,1b270,Patient discharged
+1/17/25 10:34:58,Dialysis Room,2,bed,7,973c5,Arranged drip bottle
+1/17/25 10:34:18,Dialysis Room,2,bed,7,973c5,Patient admitted
+1/17/25 10:33:14,Dialysis Room,1,bed,5,607e1,BP checked
+1/17/25 10:31:35,Dialysis Room,1,bed,3,1b270,Arranged drip bottle
+1/17/25 10:22:43,Dialysis Room,1,bed,5,607e1,Arranged drip bottle
+1/17/25 10:21:36,Dialysis Room,2,bed,7,f4881,Bed cleaned
+1/17/25 10:18:31,Dialysis Room,2,bed,7,7429d,Patient discharged
+1/17/25 10:17:34,Dialysis Room,1,bed,5,607e1,Patient admitted
+1/17/25 10:17:23,Dialysis Room,1,bed,5,a827c,Bed cleaned
+1/17/25 10:16:32,Dialysis Room,1,bed,3,1b270,Arranged drip bottle
+1/17/25 10:13:52,Dialysis Room,1,bed,5,ba494,Patient discharged
+1/17/25 10:11:50,Dialysis Room,2,bed,7,7429d,Arranged drip bottle
+1/17/25 10:11:47,Dialysis Room,1,bed,5,ba494,Arranged drip bottle
+1/17/25 10:05:38,Dialysis Room,2,bed,11,ac215,BP checked
+1/17/25 10:04:34,Dialysis Room,2,bed,10,aa524,BP checked
+1/17/25 10:02:45,Dialysis Room,1,bed,1,f280f,BP checked
+1/17/25 10:01:53,Dialysis Room,1,bed,2,505ab,BP checked
+1/17/25 10:01:00,Dialysis Room,1,bed,3,1b270,BP checked
+1/17/25 10:00:17,Dialysis Room,1,bed,5,ba494,BP checked
+1/17/25 9:59:13,Dialysis Room,2,bed,6,79fec,BP checked
+1/17/25 9:58:17,Dialysis Room,2,bed,7,7429d,BP checked
+1/17/25 9:57:18,Dialysis Room,2,bed,10,aa524,BP checked
+1/17/25 9:54:14,Dialysis Room,2,bed,8,52e96,BP checked
+1/17/25 9:52:10,Dialysis Room,2,bed,9,dd6c3,BP checked
+1/17/25 9:51:54,Dialysis Room,2,bed,10,aa524,Arranged drip bottle
+1/17/25 9:49:47,Dialysis Room,2,bed,10,aa524,BP checked
+1/17/25 9:40:50,Dialysis Room,2,bed,8,52e96,BP checked
+1/17/25 9:22:22,Dialysis Room,2,bed,8,52e96,Arranged drip bottle
+1/17/25 9:21:24,Dialysis Room,2,bed,8,52e96,BP checked
+1/17/25 9:06:13,Dialysis Room,1,bed,1,f280f,BP checked
+1/17/25 9:05:31,Dialysis Room,1,bed,2,505ab,BP checked
+1/17/25 9:04:39,Dialysis Room,1,bed,3,1b270,BP checked
+1/17/25 9:04:03,Dialysis Room,1,bed,5,ba494,BP checked
+1/17/25 9:03:11,Dialysis Room,2,bed,6,79fec,BP checked
+1/17/25 9:02:30,Dialysis Room,2,bed,7,7429d,BP checked
+1/17/25 9:01:51,Dialysis Room,2,bed,11,c7ca2,BP checked
+1/17/25 9:01:05,Dialysis Room,2,bed,10,aa524,BP checked
+1/17/25 9:00:00,Dialysis Room,2,bed,9,dd6c3,BP checked
+1/17/25 8:59:19,Dialysis Room,2,bed,8,52e96,BP checked
+1/17/25 8:21:40,Dialysis Room,2,bed,8,52e96,BP checked
+1/17/25 8:14:48,Dialysis Room,1,bed,1,f280f,BP checked
+1/17/25 8:14:13,Dialysis Room,1,bed,2,505ab,BP checked
+1/17/25 8:13:37,Dialysis Room,1,bed,3,1b270,BP checked
+1/17/25 8:13:01,Dialysis Room,1,bed,5,ba494,BP checked
+1/17/25 8:12:15,Dialysis Room,2,bed,6,79fec,BP checked
+1/17/25 8:11:35,Dialysis Room,2,bed,7,7429d,BP checked
+1/17/25 8:10:42,Dialysis Room,2,bed,9,dd6c3,BP checked
+1/17/25 8:10:07,Dialysis Room,2,bed,10,aa524,BP checked
+1/17/25 8:09:17,Dialysis Room,2,bed,11,77ce7,BP checked
+1/17/25 8:03:09,Dialysis Room,2,bed,8,52e96,Arranged drip bottle
+1/17/25 8:01:17,Dialysis Room,2,bed,9,dd6c3,Arranged drip bottle
+1/17/25 7:53:21,Dialysis Room,2,bed,11,a7ead,Arranged drip bottle
+1/17/25 7:52:09,Dialysis Room,2,bed,9,dd6c3,Patient admitted
+1/17/25 7:51:38,Dialysis Room,1,bed,2,505ab,BP checked
+1/17/25 7:50:49,Dialysis Room,2,bed,8,52e96,Patient admitted
+1/17/25 7:43:13,Dialysis Room,2,bed,6,79fec,Arranged drip bottle
+1/17/25 7:42:55,Dialysis Room,1,bed,2,505ab,Arranged drip bottle
+1/17/25 7:38:59,Dialysis Room,1,bed,2,505ab,Patient admitted
+1/17/25 7:28:35,Dialysis Room,2,bed,6,79fec,Patient admitted
+1/17/25 7:23:54,Dialysis Room,2,bed,6,53cec,Arranged drip bottle
+1/17/25 6:59:11,Dialysis Room,1,bed,1,f280f,BP checked
+1/17/25 6:58:27,Dialysis Room,1,bed,3,1b270,BP checked
+1/17/25 6:57:43,Dialysis Room,1,bed,5,ba494,BP checked
+1/17/25 6:56:58,Dialysis Room,2,bed,10,aa524,BP checked
+1/17/25 6:40:52,Dialysis Room,1,bed,1,f280f,Arranged drip bottle
+1/17/25 6:34:24,Dialysis Room,2,bed,10,aa524,Patient admitted
+1/17/25 6:31:50,Dialysis Room,2,bed,10,f5d47,Arranged drip bottle
+1/17/25 6:30:14,Dialysis Room,1,bed,1,f280f,Patient admitted
+1/17/25 6:20:05,Dialysis Room,1,bed,5,ba494,Arranged drip bottle
+1/17/25 6:06:44,Dialysis Room,1,bed,5,ba494,Patient admitted
+1/17/25 5:58:36,Dialysis Room,1,bed,3,1b270,Patient admitted
+1/17/25 5:51:06,Dialysis Room,1,bed,3,177a5,Arranged drip bottle
+1/17/25 5:45:15,Dialysis Room,2,bed,7,7429d,Patient admitted
+1/17/25 5:38:15,Dialysis Room,2,bed,7,0a230,Arranged drip bottle
+1/17/25 3:45:04,Dialysis Room,2,global,0,bbe42,screen share start
+1/17/25 3:44:50,Dialysis Room,2,global,0,61ec2,screen share stop
+1/17/25 2:59:42,Dialysis Room,1,global,0,678a0,screen share start
+1/17/25 2:59:28,Dialysis Room,1,global,0,7a7af,screen share stop
+1/17/25 0:38:15,Dialysis Room,1,global,0,a8693,screen share start
+1/17/25 0:37:51,Dialysis Room,1,global,0,e349c,screen share stop
+1/16/25 22:04:28,Dialysis Room,1,global,0,d6d7c,screen share start
+1/16/25 22:04:26,Dialysis Room,1,global,0,3151b,screen share stop
+1/16/25 20:23:47,Dialysis Room,2,global,0,a5007,screen share start
+1/16/25 20:23:45,Dialysis Room,2,global,0,4111d,screen share stop
+1/16/25 19:42:04,Dialysis Room,2,global,0,d974d,screen share start
+1/16/25 19:42:01,Dialysis Room,2,global,0,03a3c,screen share stop
+1/16/25 19:23:13,Dialysis Room,1,bed,1,ac74d,Bed cleaned
+1/16/25 19:20:18,Dialysis Room,1,bed,1,b8f7c,Arranged drip bottle
+1/16/25 19:18:42,Dialysis Room,1,bed,3,a0c46,Bed cleaned
+1/16/25 19:03:08,Dialysis Room,1,bed,3,fb313,Arranged drip bottle
+1/16/25 18:41:07,Dialysis Room,2,bed,11,8e795,Bed cleaned
+1/16/25 18:40:26,Dialysis Room,2,bed,10,0979c,Bed cleaned
+1/16/25 18:40:08,Dialysis Room,2,bed,9,8d6d0,Bed cleaned
+1/16/25 18:39:44,Dialysis Room,2,bed,8,68c91,Bed cleaned
+1/16/25 18:39:27,Dialysis Room,2,bed,7,de656,Bed cleaned
+1/16/25 18:38:32,Dialysis Room,2,bed,6,578bd,Bed cleaned
+1/16/25 18:38:19,Dialysis Room,1,bed,5,35467,Bed cleaned
+1/16/25 18:36:52,Dialysis Room,1,bed,2,c7118,Bed cleaned
+1/16/25 18:04:40,Dialysis Room,1,global,0,157e0,screen share start
+1/16/25 18:04:39,Dialysis Room,1,global,0,4885a,screen share stop
+1/16/25 17:29:47,Dialysis Room,2,bed,7,71504,Patient discharged
+1/16/25 17:25:32,Dialysis Room,2,bed,7,71504,Arranged drip bottle
+1/16/25 16:55:34,Dialysis Room,2,bed,8,1cb19,BP checked
+1/16/25 16:54:07,Dialysis Room,2,bed,7,71504,BP checked
+1/16/25 16:53:55,Dialysis Room,1,global,0,52bad,screen share start
+1/16/25 16:53:54,Dialysis Room,1,global,0,a627d,screen share stop
+1/16/25 16:52:56,Dialysis Room,1,bed,3,0f0e1,BP checked
+1/16/25 16:51:31,Dialysis Room,1,bed,1,e69c9,BP checked
+1/16/25 16:47:15,Dialysis Room,2,bed,11,17fdb,Patient discharged
+1/16/25 16:45:33,Dialysis Room,2,bed,11,17fdb,Arranged drip bottle
+1/16/25 16:16:28,Dialysis Room,1,bed,2,dfa1f,Patient discharged
+1/16/25 16:12:02,Dialysis Room,1,global,0,3a30f,screen share start
+1/16/25 16:12:00,Dialysis Room,1,global,0,3b0ec,screen share stop
+1/16/25 16:03:18,Dialysis Room,1,bed,2,dfa1f,Arranged drip bottle
+1/16/25 15:43:19,Dialysis Room,1,bed,2,dfa1f,BP checked
+1/16/25 15:41:40,Dialysis Room,1,bed,5,c9c94,Patient discharged
+1/16/25 15:38:17,Dialysis Room,2,bed,9,6989d,Arranged drip bottle
+1/16/25 15:35:39,Dialysis Room,1,bed,5,c9c94,Arranged drip bottle
+1/16/25 15:30:37,Dialysis Room,1,bed,1,e69c9,BP checked
+1/16/25 15:24:05,Dialysis Room,2,bed,9,6989d,BP checked
+1/16/25 15:21:50,Dialysis Room,2,bed,10,e5b48,Arranged drip bottle
+1/16/25 15:20:33,Dialysis Room,1,bed,1,e69c9,Patient admitted
+1/16/25 15:16:46,Dialysis Room,1,bed,1,64ec1,Arranged drip bottle
+1/16/25 15:16:39,Dialysis Room,1,bed,1,1afbd,Patient discharged
+1/16/25 15:13:32,Dialysis Room,1,bed,1,1afbd,Arranged drip bottle
+1/16/25 15:09:02,Dialysis Room,1,bed,3,0f0e1,BP checked
+1/16/25 15:07:58,Dialysis Room,1,bed,3,0f0e1,Arranged drip bottle
+1/16/25 15:05:09,Dialysis Room,1,bed,3,0f0e1,Patient admitted
+1/16/25 15:04:19,Dialysis Room,1,bed,3,83b9a,Bed cleaned
+1/16/25 15:03:51,Dialysis Room,1,bed,4,80bd2,Bed cleaned
+1/16/25 14:59:11,Dialysis Room,1,bed,3,d5ecd,Arranged drip bottle
+1/16/25 14:32:30,Dialysis Room,2,bed,11,17fdb,BP checked
+1/16/25 14:30:14,Dialysis Room,2,bed,8,1cb19,BP checked
+1/16/25 14:29:12,Dialysis Room,2,bed,7,71504,BP checked
+1/16/25 14:28:37,Dialysis Room,2,bed,6,5aeba,BP checked
+1/16/25 14:27:47,Dialysis Room,1,bed,5,c9c94,BP checked
+1/16/25 14:27:05,Dialysis Room,1,bed,1,1afbd,BP checked
+1/16/25 14:26:22,Dialysis Room,1,bed,2,dfa1f,BP checked
+1/16/25 14:18:07,Dialysis Room,1,bed,3,350b5,BP checked
+1/16/25 14:13:58,Dialysis Room,2,bed,8,1cb19,Patient admitted
+1/16/25 14:13:12,Dialysis Room,2,bed,8,1f87d,"Arranged drip bottle,Bed cleaned"
+1/16/25 14:11:19,Dialysis Room,2,bed,8,6063e,Patient discharged
+1/16/25 13:54:59,Dialysis Room,1,bed,1,1afbd,BP checked
+1/16/25 13:54:13,Dialysis Room,1,bed,2,dfa1f,BP checked
+1/16/25 13:53:30,Dialysis Room,1,bed,3,af7e0,BP checked
+1/16/25 13:52:34,Dialysis Room,1,bed,5,c9c94,BP checked
+1/16/25 13:50:32,Dialysis Room,2,bed,8,6063e,BP checked
+1/16/25 13:49:36,Dialysis Room,2,bed,10,e5b48,BP checked
+1/16/25 13:48:39,Dialysis Room,2,bed,11,17fdb,BP checked
+1/16/25 13:47:47,Dialysis Room,2,bed,9,6989d,BP checked
+1/16/25 13:35:07,Dialysis Room,2,bed,7,71504,Arranged drip bottle
+1/16/25 13:18:48,Dialysis Room,2,bed,7,71504,Patient admitted
+1/16/25 13:16:12,Dialysis Room,2,bed,7,84052,Bed cleaned
+1/16/25 13:08:30,Dialysis Room,2,bed,7,9d36b,Arranged drip bottle
+1/16/25 12:53:02,Dialysis Room,2,bed,10,e5b48,BP checked
+1/16/25 12:51:56,Dialysis Room,2,bed,9,6989d,BP checked
+1/16/25 12:51:17,Dialysis Room,2,bed,8,6063e,BP checked
+1/16/25 12:48:16,Dialysis Room,2,bed,7,cbd37,BP checked
+1/16/25 12:47:10,Dialysis Room,2,bed,6,5aeba,BP checked
+1/16/25 12:46:57,Dialysis Room,1,bed,5,c9c94,BP checked
+1/16/25 12:46:11,Dialysis Room,1,bed,3,05b50,BP checked
+1/16/25 12:45:23,Dialysis Room,1,bed,1,1afbd,BP checked
+1/16/25 12:44:10,Dialysis Room,1,bed,2,dfa1f,BP checked
+1/16/25 12:37:27,Dialysis Room,2,bed,11,17fdb,Patient admitted
+1/16/25 12:36:55,Dialysis Room,2,bed,11,85522,Bed cleaned
+1/16/25 12:29:35,Dialysis Room,2,bed,11,70824,Arranged drip bottle
+1/16/25 12:19:41,Dialysis Room,1,global,0,6d3d4,screen share start
+1/16/25 12:19:21,Dialysis Room,1,global,0,bd6b1,screen share stop
+1/16/25 12:17:45,Dialysis Room,2,bed,10,e5b48,BP checked
+1/16/25 12:17:07,Dialysis Room,2,bed,11,e0b76,BP checked
+1/16/25 12:10:29,Dialysis Room,2,bed,11,400e2,Arranged drip bottle
+1/16/25 12:07:00,Dialysis Room,2,bed,10,e5b48,Patient admitted
+1/16/25 12:06:31,Dialysis Room,2,bed,10,004cb,Bed cleaned
+1/16/25 12:04:51,Dialysis Room,2,bed,9,6989d,BP checked
+1/16/25 12:03:37,Dialysis Room,2,bed,8,6063e,BP checked
+1/16/25 12:03:22,Dialysis Room,2,bed,7,6c0d7,BP checked
+1/16/25 12:02:35,Dialysis Room,2,bed,6,5aeba,BP checked
+1/16/25 12:00:53,Dialysis Room,1,bed,2,dfa1f,Arranged drip bottle
+1/16/25 11:59:57,Dialysis Room,1,bed,5,c9c94,Patient admitted
+1/16/25 11:59:10,Dialysis Room,1,bed,4,fb791,Patient discharged
+1/16/25 11:59:09,Dialysis Room,2,bed,10,7e85b,Arranged drip bottle
+1/16/25 11:58:47,Dialysis Room,1,bed,5,75286,Arranged drip bottle
+1/16/25 11:58:36,Dialysis Room,1,bed,4,fb791,Arranged drip bottle
+1/16/25 11:57:20,Dialysis Room,1,bed,5,60eb5,Bed cleaned
+1/16/25 11:56:10,Dialysis Room,1,bed,2,dfa1f,Patient admitted
+1/16/25 11:54:48,Dialysis Room,1,bed,2,08499,Bed cleaned
+1/16/25 11:53:59,Dialysis Room,1,bed,4,fb791,BP checked
+1/16/25 11:53:25,Dialysis Room,1,bed,3,dcbb1,BP checked
+1/16/25 11:52:51,Dialysis Room,1,bed,1,1afbd,BP checked
+1/16/25 11:52:40,Dialysis Room,1,bed,5,314c4,Patient discharged
+1/16/25 11:52:06,Dialysis Room,1,bed,5,314c4,BP checked
+1/16/25 11:49:50,Dialysis Room,2,bed,10,9477e,BP checked
+1/16/25 11:49:50,Dialysis Room,2,bed,10,e68a9,BP checked
+1/16/25 11:48:45,Dialysis Room,2,bed,9,6989d,Patient admitted
+1/16/25 11:47:39,Dialysis Room,2,bed,9,6519a,Bed cleaned
+1/16/25 11:47:39,Dialysis Room,2,bed,9,0c03d,Bed cleaned
+1/16/25 11:38:17,Dialysis Room,2,global,0,1e1c9,screen share start
+1/16/25 11:38:11,Dialysis Room,2,global,0,4439c,screen share stop
+1/16/25 11:34:03,Dialysis Room,1,bed,5,314c4,Arranged drip bottle
+1/16/25 11:29:55,Dialysis Room,2,bed,11,81c08,Arranged drip bottle
+1/16/25 11:29:55,Dialysis Room,2,bed,11,eed9b,Arranged drip bottle
+1/16/25 11:29:33,Dialysis Room,2,bed,6,5aeba,Patient admitted
+1/16/25 11:28:21,Dialysis Room,2,bed,9,85036,Arranged drip bottle
+1/16/25 11:28:21,Dialysis Room,2,bed,9,88bc6,Arranged drip bottle
+1/16/25 11:26:15,Dialysis Room,2,bed,6,ac00c,Arranged drip bottle
+1/16/25 11:24:43,Dialysis Room,2,global,0,73a21,screen share start
+1/16/25 11:24:27,Dialysis Room,2,global,0,7ff97,screen share stop
+1/16/25 11:20:19,Dialysis Room,1,bed,2,7285d,Patient discharged
+1/16/25 11:14:32,Dialysis Room,1,global,0,8cee2,screen share start
+1/16/25 11:14:31,Dialysis Room,1,global,0,ee5c3,screen share stop
+1/16/25 11:13:31,Dialysis Room,1,bed,2,7285d,Arranged drip bottle
+1/16/25 11:12:41,Dialysis Room,2,bed,9,b4fd7,Arranged drip bottle
+1/16/25 11:10:24,Dialysis Room,1,bed,4,fb791,Patient admitted
+1/16/25 11:07:18,Dialysis Room,2,bed,6,b5b16,Arranged drip bottle
+1/16/25 11:07:00,Dialysis Room,1,bed,4,1e89f,Bed cleaned
+1/16/25 11:04:28,Dialysis Room,1,bed,4,b45d9,Arranged drip bottle
+1/16/25 10:58:23,Dialysis Room,1,bed,1,1afbd,Patient admitted
+1/16/25 10:55:23,Dialysis Room,1,bed,1,bdcd1,Arranged drip bottle
+1/16/25 10:55:04,Dialysis Room,1,bed,4,ae8fb,Patient discharged
+1/16/25 10:53:48,Dialysis Room,1,bed,1,7bc9b,Bed cleaned
+1/16/25 10:49:13,Dialysis Room,1,bed,1,e6a3d,Patient discharged
+1/16/25 10:48:25,Dialysis Room,1,bed,3,635be,Bed cleaned
+1/16/25 10:46:12,Dialysis Room,1,bed,4,ae8fb,Arranged drip bottle
+1/16/25 10:41:04,Dialysis Room,1,bed,1,e6a3d,Arranged drip bottle
+1/16/25 10:40:55,Dialysis Room,1,bed,3,71699,Arranged drip bottle
+1/16/25 10:30:59,Dialysis Room,2,bed,11,f1287,BP checked
+1/16/25 10:30:18,Dialysis Room,2,bed,10,f9dda,BP checked
+1/16/25 10:29:30,Dialysis Room,2,bed,9,0c0b6,BP checked
+1/16/25 10:28:20,Dialysis Room,2,bed,8,6063e,BP checked
+1/16/25 10:27:02,Dialysis Room,2,bed,7,dd233,BP checked
+1/16/25 10:21:15,Dialysis Room,1,bed,1,e6a3d,Arranged drip bottle
+1/16/25 10:18:17,Dialysis Room,1,bed,1,e6a3d,BP checked
+1/16/25 10:15:38,Dialysis Room,2,bed,11,5a33b,Arranged drip bottle
+1/16/25 10:15:08,Dialysis Room,1,global,0,146f9,screen share start
+1/16/25 10:15:06,Dialysis Room,1,global,0,65554,screen share stop
+1/16/25 10:15:05,Dialysis Room,1,bed,2,7285d,BP checked
+1/16/25 10:13:52,Dialysis Room,1,bed,4,ae8fb,BP checked
+1/16/25 10:01:28,Dialysis Room,2,bed,6,bceb3,BP checked
+1/16/25 9:59:33,Dialysis Room,2,bed,11,42a50,BP checked
+1/16/25 9:53:40,Dialysis Room,2,bed,8,6063e,Arranged drip bottle
+1/16/25 9:50:46,Dialysis Room,2,bed,8,6063e,Patient admitted
+1/16/25 9:49:10,Dialysis Room,1,bed,3,448f9,Patient discharged
+1/16/25 9:43:47,Dialysis Room,1,bed,3,448f9,Arranged drip bottle
+1/16/25 9:42:32,Dialysis Room,1,bed,1,e6a3d,Arranged drip bottle
+1/16/25 9:18:13,Dialysis Room,2,global,0,cd62d,screen share start
+1/16/25 9:17:23,Dialysis Room,2,global,0,ca984,screen share stop
+1/16/25 9:16:40,Dialysis Room,1,bed,2,7285d,Arranged drip bottle
+1/16/25 9:01:32,Dialysis Room,2,global,0,aea0d,screen share start
+1/16/25 9:01:12,Dialysis Room,2,global,0,8b849,screen share stop
+1/16/25 9:00:53,Dialysis Room,1,bed,5,314c4,BP checked
+1/16/25 9:00:13,Dialysis Room,1,bed,4,ae8fb,BP checked
+1/16/25 8:59:25,Dialysis Room,1,bed,3,448f9,BP checked
+1/16/25 8:58:54,Dialysis Room,1,bed,2,7285d,BP checked
+1/16/25 8:58:26,Dialysis Room,1,bed,1,e6a3d,BP checked
+1/16/25 8:51:51,Dialysis Room,1,global,0,9f434,screen share start
+1/16/25 8:51:19,Dialysis Room,1,global,0,c8251,screen share stop
+1/16/25 8:34:51,Dialysis Room,1,global,0,91dcc,screen share start
+1/16/25 8:34:50,Dialysis Room,1,global,0,fe248,screen share stop
+1/16/25 8:31:36,Dialysis Room,1,global,0,7e946,screen share start
+1/16/25 8:31:34,Dialysis Room,1,global,0,bf4c9,screen share stop
+1/16/25 8:13:22,Dialysis Room,2,global,0,cf335,screen share start
+1/16/25 8:13:18,Dialysis Room,2,global,0,83a77,screen share stop
+1/16/25 8:06:13,Dialysis Room,2,global,0,9745d,screen share start
+1/16/25 8:06:10,Dialysis Room,2,global,0,08774,screen share stop
+1/16/25 7:42:21,Dialysis Room,1,bed,1,e6a3d,BP checked
+1/16/25 7:40:58,Dialysis Room,1,bed,2,7285d,BP checked
+1/16/25 7:39:48,Dialysis Room,1,bed,3,448f9,BP checked
+1/16/25 7:38:31,Dialysis Room,1,bed,4,ae8fb,BP checked
+1/16/25 7:37:09,Dialysis Room,1,bed,5,314c4,BP checked
+1/16/25 7:08:49,Dialysis Room,1,bed,5,314c4,Arranged drip bottle
+1/16/25 6:58:51,Dialysis Room,1,bed,5,314c4,Patient admitted
+1/16/25 6:57:18,Dialysis Room,1,bed,2,7285d,Patient admitted
+1/16/25 6:52:04,Dialysis Room,1,bed,2,6bcd1,Arranged drip bottle
+1/16/25 6:28:43,Dialysis Room,1,bed,4,ae8fb,Patient admitted
+1/16/25 6:24:27,Dialysis Room,1,bed,4,35499,Arranged drip bottle
+1/16/25 6:20:45,Dialysis Room,1,bed,1,e6a3d,Patient admitted
+1/16/25 6:14:48,Dialysis Room,1,bed,1,0dda7,Arranged drip bottle
+1/16/25 6:06:01,Dialysis Room,1,bed,3,448f9,BP checked
+1/16/25 5:50:26,Dialysis Room,1,bed,2,84252,Arranged drip bottle
+1/16/25 5:47:12,Dialysis Room,1,bed,2,5c110,Arranged drip bottle
+1/16/25 5:40:02,Dialysis Room,2,global,0,866db,screen share start
+1/16/25 5:40:00,Dialysis Room,2,global,0,28181,screen share stop
+1/16/25 5:19:50,Dialysis Room,1,bed,3,448f9,Patient admitted
+1/16/25 4:52:25,Dialysis Room,2,global,0,d2ecf,screen share start
+1/16/25 4:52:23,Dialysis Room,2,global,0,0d1aa,screen share stop
+1/16/25 2:16:53,Dialysis Room,2,global,0,e2e8c,screen share start
+1/16/25 2:16:35,Dialysis Room,2,global,0,4aa25,screen share stop
+1/16/25 1:17:32,Dialysis Room,2,global,0,f2ca1,screen share start
+1/16/25 1:17:29,Dialysis Room,2,global,0,3e2c7,screen share stop
+1/16/25 0:08:39,Dialysis Room,1,global,0,f72ed,screen share start
+1/16/25 0:08:37,Dialysis Room,1,global,0,5cfb8,screen share stop
+1/15/25 23:50:45,Dialysis Room,2,global,0,54326,screen share start
+1/15/25 23:50:42,Dialysis Room,2,global,0,336d5,screen share stop
+1/15/25 23:49:53,Dialysis Room,1,global,0,46ba7,screen share start
+1/15/25 23:49:52,Dialysis Room,1,global,0,e6ac9,screen share stop
+1/15/25 23:24:25,Dialysis Room,2,global,0,6af43,screen share start
+1/15/25 23:24:22,Dialysis Room,2,global,0,cb674,screen share stop
+1/15/25 23:06:44,Dialysis Room,1,global,0,11f15,screen share start
+1/15/25 23:06:30,Dialysis Room,1,global,0,98e4d,screen share stop
+1/15/25 22:22:22,Dialysis Room,2,global,0,fdb53,screen share start
+1/15/25 22:22:01,Dialysis Room,2,global,0,853ae,screen share stop
+1/15/25 21:36:37,Dialysis Room,1,global,0,7dc27,screen share start
+1/15/25 21:36:36,Dialysis Room,1,global,0,aad84,screen share stop
+1/15/25 21:08:59,Dialysis Room,1,global,0,7d645,screen share start
+1/15/25 21:08:38,Dialysis Room,1,global,0,effe5,screen share stop
+1/15/25 20:57:24,Dialysis Room,1,global,0,47a79,screen share start
+1/15/25 20:57:23,Dialysis Room,1,global,0,9a728,screen share stop
+1/15/25 19:53:46,Dialysis Room,1,global,0,24d31,screen share start
+1/15/25 19:53:44,Dialysis Room,1,global,0,34138,screen share stop
+1/15/25 19:13:33,Dialysis Room,2,global,0,4528c,screen share start
+1/15/25 19:13:16,Dialysis Room,2,global,0,3b34d,screen share stop
+1/15/25 18:45:50,Dialysis Room,1,global,0,7b830,screen share start
+1/15/25 18:45:36,Dialysis Room,1,global,0,ffdc0,screen share stop
+1/15/25 18:42:53,Dialysis Room,1,global,0,d3fff,screen share start
+1/15/25 18:42:44,Dialysis Room,1,global,0,92753,screen share stop
+1/15/25 18:13:51,Dialysis Room,2,global,0,699b8,screen share start
+1/15/25 18:13:35,Dialysis Room,2,global,0,aa674,screen share stop
+1/15/25 17:54:30,Dialysis Room,1,global,0,338fd,screen share start
+1/15/25 17:54:10,Dialysis Room,1,global,0,9b33b,screen share stop
+1/15/25 16:28:21,Dialysis Room,2,bed,7,835e6,Bed cleaned
+1/15/25 16:23:15,Dialysis Room,2,bed,7,597c8,Arranged drip bottle
+1/15/25 16:21:35,Dialysis Room,2,bed,7,96f46,Patient discharged
+1/15/25 16:13:28,Dialysis Room,1,bed,5,1995a,Bed cleaned
+1/15/25 16:11:19,Dialysis Room,1,bed,5,359cb,Patient discharged
+1/15/25 16:07:15,Dialysis Room,1,bed,1,95db0,Bed cleaned
+1/15/25 16:06:50,Dialysis Room,1,bed,2,3ff20,Bed cleaned
+1/15/25 16:06:18,Dialysis Room,1,bed,3,684a3,Bed cleaned
+1/15/25 16:05:36,Dialysis Room,1,bed,4,ebba7,Bed cleaned
+1/15/25 16:02:05,Dialysis Room,1,bed,5,359cb,BP checked
+1/15/25 15:53:41,Dialysis Room,1,bed,5,359cb,Arranged drip bottle
+1/15/25 15:51:21,Dialysis Room,2,bed,7,96f46,BP checked
+1/15/25 15:47:40,Dialysis Room,2,bed,8,a983e,Patient discharged
+1/15/25 15:45:28,Dialysis Room,2,bed,8,a983e,Arranged drip bottle
+1/15/25 15:41:16,Dialysis Room,2,bed,6,bbe37,Patient discharged
+1/15/25 15:25:36,Dialysis Room,2,bed,9,67055,Arranged drip bottle
+1/15/25 15:24:24,Dialysis Room,2,bed,6,bbe37,Arranged drip bottle
+1/15/25 15:12:08,Dialysis Room,1,bed,3,7e102,Arranged drip bottle
+1/15/25 15:04:49,Dialysis Room,2,bed,9,ba697,BP checked
+1/15/25 15:04:04,Dialysis Room,2,bed,8,a983e,BP checked
+1/15/25 15:02:56,Dialysis Room,2,bed,10,b096d,Patient discharged
+1/15/25 15:02:21,Dialysis Room,2,bed,6,bbe37,BP checked
+1/15/25 15:02:02,Dialysis Room,2,bed,10,b096d,Arranged drip bottle
+1/15/25 14:59:46,Dialysis Room,2,bed,7,96f46,BP checked
+1/15/25 14:53:28,Dialysis Room,1,bed,4,65840,Patient discharged
+1/15/25 14:53:22,Dialysis Room,1,bed,3,1ab43,Patient discharged
+1/15/25 14:51:18,Dialysis Room,2,bed,10,b096d,Arranged drip bottle
+1/15/25 14:34:18,Dialysis Room,1,bed,4,65840,Arranged drip bottle
+1/15/25 14:10:47,Dialysis Room,2,bed,11,b87b8,Patient discharged
+1/15/25 14:00:39,Dialysis Room,2,bed,11,b87b8,Arranged drip bottle
+1/15/25 13:44:42,Dialysis Room,1,bed,1,6389c,Patient discharged
+1/15/25 13:39:30,Dialysis Room,1,bed,1,6389c,Arranged drip bottle
+1/15/25 13:33:18,Dialysis Room,2,global,0,ffbb7,screen share start
+1/15/25 13:32:58,Dialysis Room,2,global,0,024aa,screen share stop
+1/15/25 13:26:05,Dialysis Room,1,bed,1,6389c,BP checked
+1/15/25 13:25:21,Dialysis Room,1,bed,3,1ab43,BP checked
+1/15/25 13:24:53,Dialysis Room,1,bed,4,65840,BP checked
+1/15/25 13:24:11,Dialysis Room,1,bed,5,359cb,BP checked
+1/15/25 13:23:36,Dialysis Room,2,bed,6,bbe37,BP checked
+1/15/25 13:23:01,Dialysis Room,2,bed,7,96f46,BP checked
+1/15/25 13:22:09,Dialysis Room,2,bed,11,b87b8,BP checked
+1/15/25 13:21:21,Dialysis Room,2,bed,10,b096d,BP checked
+1/15/25 13:20:37,Dialysis Room,2,bed,9,3311c,BP checked
+1/15/25 13:20:04,Dialysis Room,2,bed,8,a983e,BP checked
+1/15/25 13:01:05,Dialysis Room,2,bed,7,96f46,BP checked
+1/15/25 12:56:30,Dialysis Room,2,bed,7,96f46,Patient admitted
+1/15/25 12:42:13,Dialysis Room,2,bed,7,2d08f,Bed cleaned
+1/15/25 12:40:47,Dialysis Room,2,bed,7,e982d,Arranged drip bottle
+1/15/25 12:35:04,Dialysis Room,2,bed,8,a983e,BP checked
+1/15/25 12:33:14,Dialysis Room,2,bed,11,b87b8,BP checked
+1/15/25 12:32:11,Dialysis Room,2,bed,10,b096d,BP checked
+1/15/25 12:31:21,Dialysis Room,2,bed,9,3f126,BP checked
+1/15/25 12:30:48,Dialysis Room,2,bed,6,bbe37,BP checked
+1/15/25 12:29:18,Dialysis Room,1,bed,1,6389c,BP checked
+1/15/25 12:25:13,Dialysis Room,1,bed,3,1ab43,BP checked
+1/15/25 12:24:06,Dialysis Room,1,bed,4,65840,BP checked
+1/15/25 12:23:02,Dialysis Room,1,bed,5,359cb,BP checked
+1/15/25 12:20:45,Dialysis Room,2,bed,11,b87b8,BP checked
+1/15/25 12:19:55,Dialysis Room,2,bed,9,4d5e1,BP checked
+1/15/25 12:16:39,Dialysis Room,2,bed,7,c6724,Arranged drip bottle
+1/15/25 12:15:31,Dialysis Room,1,bed,5,359cb,Patient admitted
+1/15/25 12:08:37,Dialysis Room,1,bed,2,01cde,Patient discharged
+1/15/25 12:04:55,Dialysis Room,2,bed,8,a983e,BP checked
+1/15/25 12:04:18,Dialysis Room,2,bed,8,a983e,Patient admitted
+1/15/25 11:59:52,Dialysis Room,1,bed,2,01cde,Arranged drip bottle
+1/15/25 11:48:11,Dialysis Room,2,bed,8,5d84d,Arranged drip bottle
+1/15/25 11:47:04,Dialysis Room,1,bed,5,04231,Arranged drip bottle
+1/15/25 11:41:47,Dialysis Room,2,bed,7,e66c3,BP checked
+1/15/25 11:40:49,Dialysis Room,2,bed,6,bbe37,BP checked
+1/15/25 11:39:36,Dialysis Room,1,bed,3,1ab43,BP checked
+1/15/25 11:38:59,Dialysis Room,1,bed,2,01cde,BP checked
+1/15/25 11:38:36,Dialysis Room,1,bed,1,6389c,BP checked
+1/15/25 11:37:12,Dialysis Room,1,bed,4,65840,BP checked
+1/15/25 11:29:05,Dialysis Room,1,bed,4,65840,Patient admitted
+1/15/25 11:28:13,Dialysis Room,1,bed,5,6b647,Bed cleaned
+1/15/25 11:26:28,Dialysis Room,1,bed,4,8d1e5,Bed cleaned
+1/15/25 11:22:42,Dialysis Room,2,bed,6,bbe37,BP checked
+1/15/25 11:22:25,Dialysis Room,1,bed,4,06d47,Arranged drip bottle
+1/15/25 11:21:07,Dialysis Room,2,bed,9,9a4ea,BP checked
+1/15/25 11:19:10,Dialysis Room,1,bed,4,9b3f0,Patient discharged
+1/15/25 11:13:38,Dialysis Room,1,bed,5,2d91a,Patient discharged
+1/15/25 11:08:39,Dialysis Room,2,bed,6,bbe37,Patient admitted
+1/15/25 11:08:23,Dialysis Room,2,bed,6,b9cda,Arranged drip bottle
+1/15/25 11:07:35,Dialysis Room,2,bed,6,c9028,Bed cleaned
+1/15/25 11:07:02,Dialysis Room,1,bed,5,2d91a,Arranged drip bottle
+1/15/25 11:03:07,Dialysis Room,2,bed,7,eba1f,BP checked
+1/15/25 11:02:45,Dialysis Room,2,bed,8,11e50,Patient discharged
+1/15/25 11:00:05,Dialysis Room,2,bed,6,16391,Arranged drip bottle
+1/15/25 10:57:02,Dialysis Room,2,bed,8,11e50,Patient admitted
+1/15/25 10:56:07,Dialysis Room,2,bed,10,b096d,BP checked
+1/15/25 10:55:27,Dialysis Room,2,bed,11,b87b8,BP checked
+1/15/25 10:54:55,Dialysis Room,2,bed,9,07232,Arranged drip bottle
+1/15/25 10:51:05,Dialysis Room,1,bed,1,6389c,BP checked
+1/15/25 10:50:14,Dialysis Room,1,bed,3,1ab43,BP checked
+1/15/25 10:44:06,Dialysis Room,2,bed,7,61fe0,Arranged drip bottle
+1/15/25 10:43:14,Dialysis Room,2,bed,11,b87b8,Arranged drip bottle
+1/15/25 10:41:53,Dialysis Room,2,bed,10,b096d,Patient admitted
+1/15/25 10:39:08,Dialysis Room,2,bed,6,acabb,Arranged drip bottle
+1/15/25 10:34:59,Dialysis Room,1,bed,3,1ab43,Patient admitted
+1/15/25 10:33:11,Dialysis Room,1,bed,3,fbfb6,Bed cleaned
+1/15/25 10:30:57,Dialysis Room,1,bed,1,6389c,Patient admitted
+1/15/25 10:29:28,Dialysis Room,2,bed,11,b87b8,Patient admitted
+1/15/25 10:28:44,Dialysis Room,1,bed,3,bba22,Arranged drip bottle
+1/15/25 10:25:05,Dialysis Room,1,bed,1,18c57,Arranged drip bottle
+1/15/25 10:24:45,Dialysis Room,2,bed,10,008e5,Arranged drip bottle
+1/15/25 10:21:07,Dialysis Room,1,bed,3,4e95f,Patient discharged
+1/15/25 10:16:17,Dialysis Room,1,bed,1,9bed8,Patient discharged
+1/15/25 10:14:47,Dialysis Room,1,bed,3,4e95f,Arranged drip bottle
+1/15/25 10:08:23,Dialysis Room,1,bed,1,9bed8,Patient admitted
+1/15/25 10:02:50,Dialysis Room,2,global,0,98718,screen share start
+1/15/25 9:56:11,Dialysis Room,1,bed,5,2d91a,BP checked
+1/15/25 9:55:26,Dialysis Room,1,bed,4,9b3f0,BP checked
+1/15/25 9:54:38,Dialysis Room,1,bed,3,4e95f,BP checked
+1/15/25 9:53:29,Dialysis Room,1,bed,2,01cde,BP checked
+1/15/25 9:06:44,Dialysis Room,1,bed,5,2d91a,BP checked
+1/15/25 9:06:10,Dialysis Room,1,bed,4,9b3f0,BP checked
+1/15/25 9:05:35,Dialysis Room,1,bed,3,4e95f,BP checked
+1/15/25 9:03:59,Dialysis Room,1,bed,2,01cde,BP checked
+1/15/25 7:53:15,Dialysis Room,1,bed,2,01cde,BP checked
+1/15/25 7:52:03,Dialysis Room,1,bed,4,9b3f0,BP checked
+1/15/25 7:50:09,Dialysis Room,1,bed,2,01cde,Patient admitted
+1/15/25 7:46:35,Dialysis Room,1,bed,2,2bf51,Arranged drip bottle
+1/15/25 7:37:21,Dialysis Room,1,global,0,dbb59,screen share start
+1/15/25 7:36:35,Dialysis Room,1,global,0,41ced,screen share stop
+1/15/25 7:30:55,Dialysis Room,1,bed,4,9b3f0,Arranged drip bottle
+1/15/25 7:28:20,Dialysis Room,1,bed,4,9b3f0,Patient admitted
+1/15/25 6:55:54,Dialysis Room,1,bed,5,2d91a,BP checked
+1/15/25 6:55:09,Dialysis Room,1,bed,3,4e95f,BP checked
+1/15/25 6:35:40,Dialysis Room,1,bed,5,2d91a,Arranged drip bottle
+1/15/25 6:25:55,Dialysis Room,1,global,0,a535f,screen share start
+1/15/25 6:25:52,Dialysis Room,1,global,0,0ec68,screen share stop
+1/15/25 6:15:52,Dialysis Room,1,bed,5,2d91a,Patient admitted
+1/15/25 5:57:56,Dialysis Room,1,global,0,b93ca,screen share start
+1/15/25 5:57:40,Dialysis Room,1,global,0,dc196,screen share stop
+1/15/25 5:54:57,Dialysis Room,1,bed,3,4e95f,Arranged drip bottle
+1/15/25 5:50:53,Dialysis Room,1,bed,3,4e95f,Patient admitted
+1/15/25 5:18:16,Dialysis Room,1,global,0,3eb5c,screen share start
+1/15/25 5:18:15,Dialysis Room,1,global,0,a3547,screen share stop
+1/15/25 4:22:51,Dialysis Room,1,global,0,419dc,screen share start
+1/15/25 4:22:27,Dialysis Room,1,global,0,b6a38,screen share stop
+1/15/25 2:08:31,Dialysis Room,1,global,0,3d9e1,screen share start
+1/15/25 2:08:29,Dialysis Room,1,global,0,38699,screen share stop
+1/15/25 0:35:44,Dialysis Room,1,global,0,d541d,screen share start
+1/15/25 0:35:42,Dialysis Room,1,global,0,c021b,screen share stop
+1/14/25 23:35:05,Dialysis Room,1,global,0,0cf6a,screen share start
+1/14/25 23:35:05,Dialysis Room,1,global,0,06af4,screen share stop
+1/14/25 23:31:43,Dialysis Room,1,global,0,1f1a7,screen share start
+1/14/25 23:31:43,Dialysis Room,1,global,0,ac455,screen share stop
+1/14/25 22:11:51,Dialysis Room,2,global,0,04bc7,screen share stop
+1/14/25 19:56:50,Dialysis Room,1,bed,1,2d899,BP checked
+1/14/25 19:30:25,Dialysis Room,1,global,0,d6138,screen share start
+1/14/25 19:29:56,Dialysis Room,1,global,0,6d386,screen share stop
+1/14/25 19:09:04,Dialysis Room,1,global,0,24986,screen share start
+1/14/25 19:08:43,Dialysis Room,1,global,0,8f0e8,screen share stop
+1/14/25 18:45:02,Dialysis Room,1,global,0,53b35,screen share start
+1/14/25 18:44:59,Dialysis Room,1,global,0,2e486,screen share stop
+1/14/25 18:43:00,Dialysis Room,2,global,0,cd929,screen share start
+1/14/25 18:42:58,Dialysis Room,2,global,0,dca99,screen share stop
+1/14/25 18:32:29,Dialysis Room,1,bed,1,a5994,BP checked
+1/14/25 18:32:02,Dialysis Room,2,global,0,fdd4a,screen share start
+1/14/25 18:31:43,Dialysis Room,2,global,0,72b4e,screen share stop
+1/14/25 18:14:05,Dialysis Room,1,bed,4,3a804,Bed cleaned
+1/14/25 18:09:52,Dialysis Room,1,bed,1,f4476,BP checked
+1/14/25 18:09:30,Dialysis Room,1,global,0,b6f7e,screen share start
+1/14/25 18:09:28,Dialysis Room,1,global,0,a3396,screen share stop
+1/14/25 18:08:10,Dialysis Room,1,bed,4,9b952,Arranged drip bottle
+1/14/25 18:01:05,Dialysis Room,2,global,0,0a075,screen share start
+1/14/25 18:01:03,Dialysis Room,2,global,0,b40f8,screen share stop
+1/14/25 17:34:48,Dialysis Room,2,global,0,45d2e,screen share start
+1/14/25 17:34:45,Dialysis Room,2,global,0,83a81,screen share stop
+1/14/25 17:23:58,Dialysis Room,2,global,0,2ce49,screen share start
+1/14/25 17:23:56,Dialysis Room,2,global,0,88bcb,screen share stop
+1/14/25 17:17:14,Dialysis Room,1,bed,1,41f27,BP checked
+1/14/25 17:16:32,Dialysis Room,1,bed,4,08a2c,BP checked
+1/14/25 17:03:25,Dialysis Room,1,global,0,6448c,screen share start
+1/14/25 17:03:22,Dialysis Room,1,global,0,2a6b2,screen share stop
+1/14/25 16:56:28,Dialysis Room,2,bed,9,86697,Bed cleaned
+1/14/25 16:54:48,Dialysis Room,1,bed,1,41f27,Arranged drip bottle
+1/14/25 16:51:50,Dialysis Room,2,bed,9,e4afd,Arranged drip bottle
+1/14/25 16:47:17,Dialysis Room,2,bed,10,19def,Bed cleaned
+1/14/25 16:46:26,Dialysis Room,2,bed,6,445e8,Bed cleaned
+1/14/25 16:38:12,Dialysis Room,2,bed,9,aa441,BP checked
+1/14/25 16:28:55,Dialysis Room,2,bed,10,22eed,Arranged drip bottle
+1/14/25 16:03:38,Dialysis Room,2,bed,10,6d050,Arranged drip bottle
+1/14/25 15:56:21,Dialysis Room,2,bed,6,f8faa,Arranged drip bottle
+1/14/25 15:49:43,Dialysis Room,2,bed,7,fdde5,Bed cleaned
+1/14/25 15:24:01,Dialysis Room,2,bed,10,49c6f,BP checked
+1/14/25 15:14:42,Dialysis Room,2,bed,11,1d798,Bed cleaned
+1/14/25 15:12:28,Dialysis Room,2,bed,8,409e8,Bed cleaned
+1/14/25 15:12:16,Dialysis Room,1,bed,1,41f27,Arranged drip bottle
+1/14/25 15:11:04,Dialysis Room,1,bed,2,213e0,Bed cleaned
+1/14/25 15:10:13,Dialysis Room,1,bed,3,624b0,Bed cleaned
+1/14/25 15:10:03,Dialysis Room,1,bed,5,9685c,Bed cleaned
+1/14/25 15:06:18,Dialysis Room,1,bed,5,22a26,Patient discharged
+1/14/25 15:04:55,Dialysis Room,1,bed,4,08a2c,BP checked
+1/14/25 15:04:22,Dialysis Room,1,bed,2,1b710,Patient discharged
+1/14/25 15:03:46,Dialysis Room,1,bed,4,08a2c,Patient admitted
+1/14/25 15:02:18,Dialysis Room,1,bed,2,1b710,"Bed cleaned,Arranged drip bottle"
+1/14/25 15:02:00,Dialysis Room,1,bed,5,22a26,BP checked
+1/14/25 15:00:33,Dialysis Room,1,bed,4,38702,Bed cleaned
+1/14/25 14:59:43,Dialysis Room,1,bed,5,22a26,Arranged drip bottle
+1/14/25 14:59:42,Dialysis Room,1,bed,5,22a26,Arranged drip bottle
+1/14/25 14:58:28,Dialysis Room,1,bed,4,384d2,Arranged drip bottle
+1/14/25 14:57:03,Dialysis Room,1,bed,3,25f76,Patient discharged
+1/14/25 14:51:46,Dialysis Room,1,bed,3,25f76,Arranged drip bottle
+1/14/25 14:49:06,Dialysis Room,1,bed,4,14bd2,Arranged drip bottle
+1/14/25 14:45:07,Dialysis Room,2,bed,8,47589,Patient discharged
+1/14/25 14:42:40,Dialysis Room,1,bed,4,a7734,Arranged drip bottle
+1/14/25 14:39:36,Dialysis Room,2,bed,8,47589,Arranged drip bottle
+1/14/25 14:34:08,Dialysis Room,1,bed,1,41f27,BP checked
+1/14/25 14:33:00,Dialysis Room,1,bed,2,1b710,BP checked
+1/14/25 14:32:20,Dialysis Room,1,bed,3,25f76,BP checked
+1/14/25 14:30:34,Dialysis Room,1,bed,4,3d505,BP checked
+1/14/25 14:30:00,Dialysis Room,1,bed,5,22a26,BP checked
+1/14/25 14:25:58,Dialysis Room,2,bed,9,a250d,BP checked
+1/14/25 14:24:50,Dialysis Room,2,bed,10,73218,BP checked
+1/14/25 14:08:11,Dialysis Room,1,bed,4,e7015,BP checked
+1/14/25 13:27:32,Dialysis Room,1,bed,1,41f27,BP checked
+1/14/25 13:26:47,Dialysis Room,1,bed,2,1b710,BP checked
+1/14/25 13:26:02,Dialysis Room,1,bed,3,25f76,BP checked
+1/14/25 13:25:42,Dialysis Room,1,bed,4,72ae3,BP checked
+1/14/25 13:24:45,Dialysis Room,1,bed,5,22a26,BP checked
+1/14/25 10:49:24,Dialysis Room,2,bed,6,f246e,BP checked
+1/14/25 10:48:15,Dialysis Room,2,bed,11,cfdce,BP checked
+1/14/25 10:46:35,Dialysis Room,2,bed,10,31b5e,Arranged drip bottle
+1/14/25 10:44:55,Dialysis Room,2,bed,7,0a31a,BP checked
+1/14/25 10:44:12,Dialysis Room,1,bed,5,22a26,Patient admitted
+1/14/25 10:44:12,Dialysis Room,1,bed,4,f415f,Bed cleaned
+1/14/25 10:42:56,Dialysis Room,2,bed,10,87094,BP checked
+1/14/25 10:42:35,Dialysis Room,1,bed,2,1b710,Patient admitted
+1/14/25 10:42:01,Dialysis Room,2,bed,9,f9847,BP checked
+1/14/25 10:41:21,Dialysis Room,1,bed,3,25f76,Patient admitted
+1/14/25 10:40:12,Dialysis Room,1,bed,2,d3218,Arranged drip bottle
+1/14/25 10:40:12,Dialysis Room,1,bed,4,badcf,Patient discharged
+1/14/25 10:39:27,Dialysis Room,1,bed,4,badcf,Arranged drip bottle
+1/14/25 10:39:07,Dialysis Room,1,bed,5,e759b,Arranged drip bottle
+1/14/25 10:38:41,Dialysis Room,1,bed,2,266bd,Bed cleaned
+1/14/25 10:37:31,Dialysis Room,1,bed,3,06ad3,Bed cleaned
+1/14/25 10:36:27,Dialysis Room,1,bed,2,b6afc,Patient discharged
+1/14/25 10:36:06,Dialysis Room,1,bed,5,1abfb,Bed cleaned
+1/14/25 10:35:41,Dialysis Room,1,bed,2,b6afc,BP checked
+1/14/25 10:34:36,Dialysis Room,2,bed,8,47589,BP checked
+1/14/25 10:32:25,Dialysis Room,1,bed,3,515a0,Arranged drip bottle
+1/14/25 10:32:23,Dialysis Room,1,bed,4,badcf,Arranged drip bottle
+1/14/25 10:29:40,Dialysis Room,2,bed,8,47589,Patient admitted
+1/14/25 10:28:51,Dialysis Room,2,bed,8,8a9bd,Bed cleaned
+1/14/25 10:27:39,Dialysis Room,1,bed,2,b6afc,Arranged drip bottle
+1/14/25 10:27:32,Dialysis Room,1,bed,3,d99c3,Arranged drip bottle
+1/14/25 10:27:16,Dialysis Room,1,bed,3,304ff,Patient discharged
+1/14/25 10:24:06,Dialysis Room,1,bed,5,c4f7e,Arranged drip bottle
+1/14/25 10:23:02,Dialysis Room,1,bed,5,5182b,Patient discharged
+1/14/25 10:21:53,Dialysis Room,2,bed,8,e22e3,Arranged drip bottle
+1/14/25 10:18:18,Dialysis Room,1,bed,3,304ff,Arranged drip bottle
+1/14/25 9:54:41,Dialysis Room,2,bed,10,9fb2c,BP checked
+1/14/25 9:49:29,Dialysis Room,1,bed,2,b6afc,BP checked
+1/14/25 9:31:40,Dialysis Room,1,bed,3,304ff,BP checked
+1/14/25 9:16:35,Dialysis Room,2,bed,10,0dbb2,BP checked
+1/14/25 8:51:57,Dialysis Room,2,global,0,b33d5,screen share start
+1/14/25 8:41:03,Dialysis Room,1,bed,5,5182b,BP checked
+1/14/25 8:40:22,Dialysis Room,1,bed,3,304ff,BP checked
+1/14/25 8:37:02,Dialysis Room,1,bed,4,badcf,BP checked
+1/14/25 8:34:02,Dialysis Room,1,bed,1,41f27,BP checked
+1/14/25 8:27:45,Dialysis Room,1,bed,2,b6afc,BP checked
+1/14/25 7:28:03,Dialysis Room,1,bed,1,41f27,BP checked
+1/14/25 7:27:32,Dialysis Room,1,bed,2,b6afc,BP checked
+1/14/25 7:26:41,Dialysis Room,1,bed,5,5182b,BP checked
+1/14/25 7:25:39,Dialysis Room,1,bed,3,304ff,BP checked
+1/14/25 7:03:56,Dialysis Room,1,bed,1,41f27,Arranged drip bottle
+1/14/25 7:03:25,Dialysis Room,1,bed,2,b6afc,Patient admitted
+1/14/25 6:57:03,Dialysis Room,1,bed,2,3388d,Arranged drip bottle
+1/14/25 6:31:21,Dialysis Room,1,bed,1,41f27,Patient admitted
+1/14/25 6:30:59,Dialysis Room,1,bed,5,5182b,Arranged drip bottle
+1/14/25 6:25:48,Dialysis Room,1,global,0,382d4,screen share start
+1/14/25 6:25:35,Dialysis Room,1,global,0,10eec,screen share stop
+1/14/25 6:09:01,Dialysis Room,1,bed,4,badcf,Arranged drip bottle
+1/14/25 5:55:33,Dialysis Room,1,bed,4,badcf,Patient admitted
+1/14/25 5:52:58,Dialysis Room,1,bed,5,5182b,Patient admitted
+1/14/25 5:45:42,Dialysis Room,1,bed,3,304ff,Patient admitted
+1/14/25 5:45:35,Dialysis Room,1,bed,3,70510,Arranged drip bottle
+1/14/25 5:24:36,Dialysis Room,1,global,0,8d8eb,screen share start
+1/14/25 5:24:34,Dialysis Room,1,global,0,5315c,screen share stop
+1/14/25 4:06:41,Dialysis Room,1,global,0,2ca7c,screen share start
+1/14/25 4:06:25,Dialysis Room,1,global,0,004ff,screen share stop
+1/14/25 2:46:38,Dialysis Room,1,global,0,0441f,screen share start
+1/14/25 2:46:20,Dialysis Room,1,global,0,65908,screen share stop
+1/14/25 1:52:35,Dialysis Room,1,global,0,e9046,screen share start
+1/14/25 1:52:07,Dialysis Room,1,global,0,9bfd1,screen share stop
+1/14/25 1:20:14,Dialysis Room,1,global,0,52cdb,screen share start
+1/14/25 1:19:45,Dialysis Room,1,global,0,f596b,screen share stop
+1/14/25 1:01:07,Dialysis Room,1,global,0,21652,screen share start
+1/14/25 1:01:06,Dialysis Room,1,global,0,ed6d5,screen share stop
+1/14/25 0:55:48,Dialysis Room,1,global,0,f9772,screen share start
+1/14/25 0:55:47,Dialysis Room,1,global,0,dba8b,screen share stop
+1/14/25 0:46:32,Dialysis Room,1,global,0,6de3c,screen share start
+1/14/25 0:46:00,Dialysis Room,1,global,0,1f8c2,screen share stop
+1/13/25 23:26:40,Dialysis Room,1,global,0,ffa47,screen share start
+1/13/25 23:26:39,Dialysis Room,1,global,0,55b61,screen share stop
+1/13/25 22:16:45,Dialysis Room,1,global,0,5896a,screen share start
+1/13/25 22:16:26,Dialysis Room,1,global,0,06a98,screen share stop
+1/13/25 21:44:44,Dialysis Room,1,global,0,225d4,screen share start
+1/13/25 21:44:35,Dialysis Room,1,global,0,79872,screen share stop
+1/13/25 21:20:42,Dialysis Room,1,global,0,c248a,screen share start
+1/13/25 21:20:07,Dialysis Room,1,global,0,67931,screen share stop
+1/13/25 20:24:22,Dialysis Room,1,global,0,a28b6,screen share start
+1/13/25 20:24:20,Dialysis Room,1,global,0,99674,screen share stop
+1/13/25 20:00:52,Dialysis Room,2,global,0,4a592,screen share stop
+1/13/25 19:59:51,Dialysis Room,2,bed,7,8908b,Arranged drip bottle
+1/13/25 19:50:43,Dialysis Room,2,global,0,bda36,screen share start
+1/13/25 19:50:40,Dialysis Room,2,global,0,65ab7,screen share stop
+1/13/25 19:35:17,Dialysis Room,1,global,0,964a1,screen share start
+1/13/25 19:35:09,Dialysis Room,1,global,0,8703d,screen share stop
+1/13/25 19:32:49,Dialysis Room,1,global,0,24bb9,screen share start
+1/13/25 19:32:48,Dialysis Room,1,global,0,1e3d2,screen share stop
+1/13/25 19:25:03,Dialysis Room,1,bed,4,a6692,Bed cleaned
+1/13/25 19:23:52,Dialysis Room,2,bed,8,0e4f9,Bed cleaned
+1/13/25 19:04:19,Dialysis Room,2,bed,8,dc801,BP checked
+1/13/25 19:02:36,Dialysis Room,1,global,0,ae0f9,screen share start
+1/13/25 19:02:10,Dialysis Room,1,global,0,1e693,screen share stop
+1/13/25 18:59:26,Dialysis Room,2,bed,8,deafb,Arranged drip bottle
+1/13/25 18:50:14,Dialysis Room,1,bed,3,c8469,Bed cleaned
+1/13/25 18:48:48,Dialysis Room,2,bed,6,bd29e,Bed cleaned
+1/13/25 18:39:09,Dialysis Room,2,bed,6,91093,Arranged drip bottle
+1/13/25 18:36:59,Dialysis Room,2,bed,8,f4040,BP checked
+1/13/25 18:32:44,Dialysis Room,1,bed,3,8aff0,Arranged drip bottle
+1/13/25 18:28:53,Dialysis Room,1,bed,3,fda11,BP checked
+1/13/25 18:27:28,Dialysis Room,1,bed,4,f6496,BP checked
+1/13/25 18:25:39,Dialysis Room,2,bed,6,4d475,BP checked
+1/13/25 18:24:18,Dialysis Room,2,bed,7,be92d,BP checked
+1/13/25 18:22:21,Dialysis Room,2,bed,8,40ca8,BP checked
+1/13/25 18:21:14,Dialysis Room,1,bed,5,8dcaa,Bed cleaned
+1/13/25 18:08:43,Dialysis Room,2,global,0,e1eb2,screen share start
+1/13/25 18:02:45,Dialysis Room,1,global,0,cc6db,screen share start
+1/13/25 18:01:22,Dialysis Room,1,global,0,dee1b,screen share stop
+1/13/25 17:56:10,Dialysis Room,2,global,0,c79ce,screen share stop
+1/13/25 17:52:21,Dialysis Room,1,global,0,3bffb,screen share stop
+1/13/25 17:52:21,Dialysis Room,1,global,0,92a52,screen share start
+1/13/25 17:49:01,Dialysis Room,2,global,0,fcd57,screen share start
+1/13/25 17:47:51,Dialysis Room,2,global,0,65c96,screen share stop
+1/13/25 17:47:46,Dialysis Room,2,global,0,abfb2,screen share start
+1/13/25 17:47:42,Dialysis Room,2,global,0,b4253,screen share stop
+1/13/25 17:32:36,Dialysis Room,2,bed,8,f586f,BP checked
+1/13/25 17:15:19,Dialysis Room,2,bed,6,896a6,BP checked
+1/13/25 17:15:11,Dialysis Room,2,bed,7,11344,BP checked
+1/13/25 17:13:04,Dialysis Room,2,bed,6,487bd,BP checked
+1/13/25 17:06:49,Dialysis Room,2,bed,8,976b0,BP checked
+1/13/25 16:59:43,Dialysis Room,1,global,0,345e0,screen share start
+1/13/25 16:50:42,Dialysis Room,1,global,0,8be3e,screen share stop
+1/13/25 16:31:02,Dialysis Room,2,global,0,5673d,screen share start
+1/13/25 16:27:45,Dialysis Room,1,bed,5,48699,Patient discharged
+1/13/25 16:27:29,Dialysis Room,1,global,0,e4fd4,screen share start
+1/13/25 16:27:17,Dialysis Room,1,bed,5,48699,BP checked
+1/13/25 16:27:16,Dialysis Room,1,global,0,087aa,screen share stop
+1/13/25 16:27:16,Dialysis Room,2,global,0,2d3aa,screen share stop
+1/13/25 16:25:48,Dialysis Room,1,bed,4,73d25,BP checked
+1/13/25 16:25:18,Dialysis Room,2,global,0,fc1b1,screen share start
+1/13/25 16:25:18,Dialysis Room,2,global,0,09460,screen share stop
+1/13/25 16:25:06,Dialysis Room,2,global,0,6ae6f,screen share start
+1/13/25 16:25:06,Dialysis Room,1,global,0,853c2,screen share start
+1/13/25 16:24:19,Dialysis Room,1,bed,2,ef3ef,Bed cleaned
+1/13/25 16:24:15,Dialysis Room,1,global,0,faed1,screen share stop
+1/13/25 16:24:15,Dialysis Room,2,global,0,8f35d,screen share stop
+1/13/25 16:24:10,Dialysis Room,1,bed,1,283f6,Bed cleaned
+1/13/25 16:22:06,Dialysis Room,2,global,0,7e594,screen share stop
+1/13/25 16:22:06,Dialysis Room,2,global,0,fb4b2,screen share start
+1/13/25 16:20:16,Dialysis Room,1,bed,5,48699,Arranged drip bottle
+1/13/25 16:18:47,Dialysis Room,1,bed,2,8023b,Arranged drip bottle
+1/13/25 16:17:58,Dialysis Room,1,bed,2,8af20,Patient discharged
+1/13/25 15:48:14,Dialysis Room,1,bed,3,bc560,Patient admitted
+1/13/25 15:45:56,Dialysis Room,1,bed,3,b5b9b,Bed cleaned
+1/13/25 15:40:06,Dialysis Room,1,bed,3,9adf0,Arranged drip bottle
+1/13/25 15:37:11,Dialysis Room,1,global,0,7bfb6,screen share start
+1/13/25 15:37:11,Dialysis Room,2,global,0,78e56,screen share start
+1/13/25 15:30:34,Dialysis Room,1,global,0,7491f,screen share stop
+1/13/25 15:29:26,Dialysis Room,1,bed,1,d2a3a,Patient discharged
+1/13/25 15:26:33,Dialysis Room,1,bed,1,d2a3a,Arranged drip bottle
+1/13/25 15:20:28,Dialysis Room,1,bed,3,d08bc,Patient discharged
+1/13/25 15:17:33,Dialysis Room,2,global,0,999d3,screen share stop
+1/13/25 15:15:57,Dialysis Room,1,bed,5,48699,BP checked
+1/13/25 15:15:06,Dialysis Room,1,bed,4,21611,BP checked
+1/13/25 15:12:43,Dialysis Room,2,bed,6,05bf6,Arranged drip bottle
+1/13/25 15:11:26,Dialysis Room,1,bed,3,d08bc,Arranged drip bottle
+1/13/25 15:10:42,Dialysis Room,1,global,0,09f53,screen share start
+1/13/25 15:10:42,Dialysis Room,2,global,0,47c2a,screen share start
+1/13/25 14:59:45,Dialysis Room,2,global,0,b0111,screen share stop
+1/13/25 14:59:45,Dialysis Room,1,global,0,34bd2,screen share stop
+1/13/25 14:59:40,Dialysis Room,2,bed,6,ffe88,BP checked
+1/13/25 14:58:37,Dialysis Room,2,bed,6,eafcd,Arranged drip bottle
+1/13/25 14:58:33,Dialysis Room,1,bed,4,fc791,Arranged drip bottle
+1/13/25 14:57:32,Dialysis Room,2,bed,10,aa7e4,BP checked
+1/13/25 14:56:40,Dialysis Room,1,bed,4,f89a3,Patient discharged
+1/13/25 14:53:50,Dialysis Room,2,bed,8,78f86,Bed cleaned
+1/13/25 14:49:47,Dialysis Room,1,bed,4,f89a3,Arranged drip bottle
+1/13/25 14:45:28,Dialysis Room,2,bed,6,d8a1c,Arranged drip bottle
+1/13/25 14:38:53,Dialysis Room,2,global,0,3b569,screen share start
+1/13/25 14:38:53,Dialysis Room,1,global,0,1af1b,screen share start
+1/13/25 14:33:07,Dialysis Room,1,global,0,5da53,screen share stop
+1/13/25 14:33:07,Dialysis Room,2,global,0,9b7ff,screen share stop
+1/13/25 14:26:07,Dialysis Room,1,bed,1,d2a3a,BP checked
+1/13/25 14:24:57,Dialysis Room,1,bed,2,8af20,BP checked
+1/13/25 14:24:17,Dialysis Room,1,bed,3,d08bc,BP checked
+1/13/25 14:23:25,Dialysis Room,1,bed,4,f89a3,BP checked
+1/13/25 14:22:37,Dialysis Room,1,bed,5,48699,BP checked
+1/13/25 14:21:40,Dialysis Room,2,bed,6,96a82,BP checked
+1/13/25 14:20:33,Dialysis Room,2,bed,7,0ac7f,BP checked
+1/13/25 14:19:55,Dialysis Room,2,bed,8,457db,BP checked
+1/13/25 14:18:51,Dialysis Room,2,bed,9,05a4c,BP checked
+1/13/25 14:17:03,Dialysis Room,2,bed,10,43ec2,BP checked
+1/13/25 14:12:15,Dialysis Room,2,global,0,e1f55,screen share start
+1/13/25 14:12:15,Dialysis Room,1,global,0,25576,screen share start
+1/13/25 14:05:06,Dialysis Room,2,global,0,c7f69,screen share stop
+1/13/25 14:05:05,Dialysis Room,1,global,0,0abc0,screen share stop
+1/13/25 14:02:31,Dialysis Room,1,bed,3,d08bc,Arranged drip bottle
+1/13/25 13:46:04,Dialysis Room,2,bed,11,a3c11,BP checked
+1/13/25 13:44:37,Dialysis Room,2,bed,10,eb671,BP checked
+1/13/25 13:44:09,Dialysis Room,2,bed,9,a3e63,BP checked
+1/13/25 13:43:53,Dialysis Room,2,global,0,374fc,screen share start
+1/13/25 13:43:53,Dialysis Room,1,global,0,275c4,screen share start
+1/13/25 13:24:49,Dialysis Room,1,global,0,3fea8,screen share stop
+1/13/25 13:24:49,Dialysis Room,2,global,0,561e3,screen share stop
+1/13/25 13:14:38,Dialysis Room,2,global,0,60c54,screen share start
+1/13/25 13:14:38,Dialysis Room,1,global,0,bb096,screen share start
+1/13/25 13:02:32,Dialysis Room,1,global,0,3b6ce,screen share stop
+1/13/25 13:02:32,Dialysis Room,2,global,0,9d7c0,screen share stop
+1/13/25 13:00:42,Dialysis Room,1,global,0,8f878,screen share start
+1/13/25 13:00:42,Dialysis Room,1,global,0,563b1,screen share stop
+1/13/25 12:48:59,Dialysis Room,1,bed,1,d2a3a,BP checked
+1/13/25 12:48:14,Dialysis Room,1,bed,2,8af20,BP checked
+1/13/25 12:47:31,Dialysis Room,1,bed,3,d08bc,BP checked
+1/13/25 12:47:03,Dialysis Room,1,bed,4,f89a3,BP checked
+1/13/25 12:46:24,Dialysis Room,1,bed,5,48699,BP checked
+1/13/25 12:43:05,Dialysis Room,2,global,0,e2d0e,screen share start
+1/13/25 12:42:14,Dialysis Room,2,global,0,f7f49,screen share stop
+1/13/25 12:42:07,Dialysis Room,2,global,0,9f639,screen share start
+1/13/25 12:39:28,Dialysis Room,2,global,0,75bc4,screen share stop
+1/13/25 12:39:06,Dialysis Room,2,global,0,b584f,screen share stop
+1/13/25 12:39:06,Dialysis Room,2,global,0,5a2c2,screen share start
+1/13/25 12:22:28,Dialysis Room,2,global,0,25a17,screen share start
+1/13/25 12:22:28,Dialysis Room,1,global,0,94331,screen share start
+1/13/25 11:29:43,Dialysis Room,1,global,0,caf70,screen share stop
+1/13/25 11:29:40,Dialysis Room,2,global,0,c8872,screen share stop
+1/13/25 11:26:25,Dialysis Room,1,bed,2,8af20,Arranged drip bottle
+1/13/25 11:21:05,Dialysis Room,2,global,0,7134f,screen share start
+1/13/25 11:18:47,Dialysis Room,2,global,0,436d0,screen share stop
+1/13/25 11:18:29,Dialysis Room,2,global,0,ed633,screen share start
+1/13/25 11:18:21,Dialysis Room,2,global,0,517b2,screen share stop
+1/13/25 11:17:52,Dialysis Room,1,global,0,238a0,screen share start
+1/13/25 11:17:51,Dialysis Room,2,global,0,c48d7,screen share start
+1/13/25 11:17:44,Dialysis Room,1,global,0,3ca64,screen share stop
+1/13/25 11:17:42,Dialysis Room,2,global,0,1f059,screen share stop
+1/13/25 11:15:38,Dialysis Room,2,global,0,2401d,screen share start
+1/13/25 11:09:06,Dialysis Room,2,global,0,7ed1b,screen share stop
+1/13/25 11:07:14,Dialysis Room,2,global,0,fed81,screen share start
+1/13/25 11:07:14,Dialysis Room,2,global,0,405d4,screen share stop
+1/13/25 11:06:34,Dialysis Room,1,bed,1,d2a3a,BP checked
+1/13/25 11:03:04,Dialysis Room,1,bed,1,d2a3a,Arranged drip bottle
+1/13/25 10:58:39,Dialysis Room,1,bed,1,d2a3a,Patient admitted
+1/13/25 10:56:45,Dialysis Room,1,bed,1,07d53,Arranged drip bottle
+1/13/25 10:53:03,Dialysis Room,1,bed,1,a9fc1,Bed cleaned
+1/13/25 10:51:11,Dialysis Room,1,bed,3,d08bc,BP checked
+1/13/25 10:50:47,Dialysis Room,1,bed,1,9d272,Patient discharged
+1/13/25 10:50:32,Dialysis Room,1,bed,3,d08bc,Patient admitted
+1/13/25 10:49:43,Dialysis Room,1,bed,1,9d272,Arranged drip bottle
+1/13/25 10:45:37,Dialysis Room,1,bed,3,ed2b5,Bed cleaned
+1/13/25 10:44:57,Dialysis Room,1,bed,3,6a4d7,Arranged drip bottle
+1/13/25 10:44:16,Dialysis Room,1,bed,3,33e6a,Patient discharged
+1/13/25 10:38:45,Dialysis Room,1,bed,3,33e6a,Arranged drip bottle
+1/13/25 10:31:49,Dialysis Room,1,bed,4,f89a3,BP checked
+1/13/25 10:30:51,Dialysis Room,1,bed,4,f89a3,Patient admitted
+1/13/25 10:28:37,Dialysis Room,1,bed,4,38e3e,Bed cleaned
+1/13/25 10:22:00,Dialysis Room,1,bed,4,3f822,Arranged drip bottle
+1/13/25 10:20:49,Dialysis Room,1,bed,4,8c6e7,Patient discharged
+1/13/25 10:18:28,Dialysis Room,1,bed,4,8c6e7,Arranged drip bottle
+1/13/25 10:04:35,Dialysis Room,1,bed,5,48699,BP checked
+1/13/25 10:03:39,Dialysis Room,1,bed,4,8c6e7,BP checked
+1/13/25 10:02:11,Dialysis Room,1,bed,3,33e6a,BP checked
+1/13/25 10:01:16,Dialysis Room,1,bed,2,8af20,BP checked
+1/13/25 9:47:40,Dialysis Room,1,bed,1,9d272,BP checked
+1/13/25 9:00:45,Dialysis Room,1,bed,4,8c6e7,Arranged drip bottle
+1/13/25 8:50:01,Dialysis Room,1,bed,1,9d272,BP checked
+1/13/25 8:47:30,Dialysis Room,1,bed,2,8af20,BP checked
+1/13/25 8:45:59,Dialysis Room,1,bed,3,33e6a,BP checked
+1/13/25 8:44:53,Dialysis Room,1,bed,4,8c6e7,BP checked
+1/13/25 8:43:59,Dialysis Room,1,bed,5,48699,BP checked
+1/13/25 7:50:22,Dialysis Room,1,bed,2,8af20,BP checked
+1/13/25 7:42:19,Dialysis Room,1,bed,1,9d272,BP checked
+1/13/25 7:32:32,Dialysis Room,1,bed,5,48699,Arranged drip bottle
+1/13/25 7:29:57,Dialysis Room,1,bed,2,8af20,Arranged drip bottle
+1/13/25 7:18:51,Dialysis Room,1,bed,5,48699,Patient admitted
+1/13/25 6:58:30,Dialysis Room,1,bed,2,8af20,Patient admitted
+1/13/25 6:33:13,Dialysis Room,1,bed,1,9d272,Patient admitted
+1/13/25 6:22:31,Dialysis Room,1,bed,1,b94f0,Arranged drip bottle
+1/13/25 6:02:02,Dialysis Room,1,bed,4,8c6e7,BP checked
+1/13/25 6:01:23,Dialysis Room,1,bed,3,33e6a,BP checked
+1/13/25 5:27:26,Dialysis Room,1,bed,3,33e6a,Arranged drip bottle
+1/13/25 5:22:03,Dialysis Room,1,bed,3,33e6a,Patient admitted
+1/13/25 5:20:41,Dialysis Room,1,bed,4,8c6e7,Patient admitted
+1/13/25 5:05:41,Dialysis Room,1,bed,4,01643,Arranged drip bottle
+1/12/25 18:59:01,Dialysis Room,1,global,0,4239c,screen share start
+1/12/25 18:57:45,Dialysis Room,1,global,0,54b65,screen share stop
+1/12/25 17:24:01,Dialysis Room,1,global,0,1cda7,screen share start
+1/12/25 17:21:53,Dialysis Room,1,global,0,bd4c2,screen share stop
+1/12/25 14:55:10,Dialysis Room,1,global,0,07e04,screen share start
+1/12/25 13:02:29,Dialysis Room,1,global,0,5e851,screen share stop
